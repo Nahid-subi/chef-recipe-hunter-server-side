@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "picture": "chef1.jpg",
+        "picture": "https://www.forbesindia.com/media/images/2021/Mar/img_156261_opening_chefandrewwong_mentorchef_baoshuan_theoberoinewdelhi9-bg.jpg",
         "name": "John Smith",
         "experience": 10,
         "recipes": 150,
@@ -60,7 +60,7 @@
     },
     {
         "id": 2,
-        "picture": "chef2.jpg",
+        "picture": "https://www.nimanranch.com/wp-content/uploads/2019/05/Pinch-Chinese-Chef-Hua-Zhang-1024x1024-1.jpg",
         "name": "Emily Johnson",
         "experience": 7,
         "recipes": 100,
@@ -119,7 +119,7 @@
     },
     {
         "id": 3,
-        "picture": "chef3.jpg",
+        "picture": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-2_336X.jpg?v=1628774387",
         "name": "Michael Lee",
         "experience": 15,
         "recipes": 200,
@@ -178,7 +178,7 @@
     },
     {
         "id": 4,
-        "picture": "chef4.jpg",
+        "picture": "https://www.chinadaily.com.cn/food/img/attachement/jpg/site1/20160501/b083fe96fb62188ffe4847.jpg",
         "name": "Sophia Rodriguez",
         "experience": 12,
         "recipes": 180,
@@ -237,7 +237,7 @@
     },
     {
         "id": 5,
-        "picture": "chef5.jpg",
+        "picture": "https://www.manhomanila.com/resourcefiles/meet-the-chef-image/chan-chi-fai.jpg",
         "name": "David Wilson",
         "experience": 8,
         "recipes": 120,
@@ -296,7 +296,7 @@
     },
     {
         "id": 6,
-        "picture": "chef6.jpg",
+        "picture": "https://images.prestigeonline.com/wp-content/uploads/sites/8/2022/01/28010531/02.Mr_.Chow-Wai-Man_Chinese-Executive-Chef_Shangri-La-Hotel-Bangkok-scaled.jpg",
         "name": "Olivia Thompson",
         "experience": 5,
         "recipes": 80,
