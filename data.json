@@ -1,0 +1,356 @@
+[
+    {
+        "id": 1,
+        "picture": "chef1.jpg",
+        "name": "John Smith",
+        "experience": 10,
+        "recipes": 150,
+        "likes": 5000,
+        "bio": "Passionate chef with 10 years of experience in creating delicious culinary delights. Known for my diverse range of recipes and commitment to using fresh, locally sourced ingredients.",
+        "recipesList": [
+            {
+                "name": "Spicy Grilled Shrimp",
+                "ingredients": [
+                    "shrimp",
+                    "garlic",
+                    "chili powder",
+                    "lime juice",
+                    "olive oil"
+                ],
+                "method": "1. In a bowl, mix garlic, chili powder, lime juice, and olive oil. \n2. Add shrimp to the mixture and let it marinate for 15 minutes. \n3. Grill the shrimp on high heat for 2-3 minutes on each side. \n4. Serve hot with your favorite sauce.",
+                "rating": 4.5
+            },
+            {
+                "name": "Mushroom Risotto",
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "onion",
+                    "vegetable broth",
+                    "Parmesan cheese"
+                ],
+                "method": "1. Sauté onions and mushrooms in a pan until golden. \n2. Add arborio rice and stir for a minute. \n3. Gradually add vegetable broth, stirring constantly until the rice is cooked and creamy. \n4. Stir in Parmesan cheese and serve hot.",
+                "rating": 4.2
+            },
+            {
+                "name": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "rosemary",
+                    "thyme",
+                    "garlic"
+                ],
+                "method": "1. Rub chicken with a mixture of lemon juice, rosemary, thyme, and garlic. \n2. Place the chicken in a baking dish and roast in the oven at 375°F (190°C) for about 1 hour or until cooked through. \n3. Let it rest for a few minutes before serving.",
+                "rating": 4.8
+            },
+            {
+                "name": "Chocolate Lava Cake",
+                "ingredients": [
+                    "chocolate",
+                    "butter",
+                    "eggs",
+                    "sugar",
+                    "flour"
+                ],
+                "method": "1. Melt chocolate and butter in a bowl over simmering water. \n2. In a separate bowl, beat eggs and sugar until light and fluffy. \n3. Fold in melted chocolate mixture and flour. \n4. Pour the batter into greased ramekins and bake at 425°F (220°C) for 10-12 minutes. \n5. Serve warm with a dusting of powdered sugar.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "chef2.jpg",
+        "name": "Emily Johnson",
+        "experience": 7,
+        "recipes": 100,
+        "likes": 3500,
+        "bio": "Experienced chef specializing in international cuisine. I have traveled the world, gathering inspiration and honing my skills to create unique and memorable dishes.",
+        "recipesList": [
+            {
+                "name": "Thai Green Curry",
+                "ingredients": [
+                    "coconut milk",
+                    "green curry paste",
+                    "chicken",
+                    "vegetables",
+                    "basil leaves"
+                ],
+                "method": "1. Heat coconut milk in a pan and add green curry paste. \n2. Add chicken and vegetables, and cook until tender. \n3. Garnish with basil leaves and serve hot with steamed rice.",
+                "rating": 4.6
+            },
+            {
+                "name": "Mushroom Risotto",
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "onion",
+                    "vegetable broth",
+                    "Parmesan cheese"
+                ],
+                "method": "1. Sauté onions and mushrooms in a pan until golden. \n2. Add arborio rice and stir for a minute. \n3. Gradually add vegetable broth, stirring constantly until the rice is cooked and creamy. \n4. Stir in Parmesan cheese and serve hot.",
+                "rating": 4.2
+            },
+            {
+                "name": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "rosemary",
+                    "thyme",
+                    "garlic"
+                ],
+                "method": "1. Rub chicken with a mixture of lemon juice, rosemary, thyme, and garlic. \n2. Place the chicken in a baking dish and roast in the oven at 375°F (190°C) for about 1 hour or until cooked through. \n3. Let it rest for a few minutes before serving.",
+                "rating": 4.8
+            },
+            {
+                "name": "Chocolate Lava Cake",
+                "ingredients": [
+                    "chocolate",
+                    "butter",
+                    "eggs",
+                    "sugar",
+                    "flour"
+                ],
+                "method": "1. Melt chocolate and butter in a bowl over simmering water. \n2. In a separate bowl, beat eggs and sugar until light and fluffy. \n3. Fold in melted chocolate mixture and flour. \n4. Pour the batter into greased ramekins and bake at 425°F (220°C) for 10-12 minutes. \n5. Serve warm with a dusting of powdered sugar.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "chef3.jpg",
+        "name": "Michael Lee",
+        "experience": 15,
+        "recipes": 200,
+        "likes": 8000,
+        "bio": "Seasoned chef with 15 years of culinary expertise. I believe in creating dishes that not only satisfy the taste buds but also nourish the body. Join me on a gastronomic journey of flavors and textures.",
+        "recipesList": [
+            {
+                "name": "Beef Wellington",
+                "ingredients": [
+                    "beef tenderloin",
+                    "mushrooms",
+                    "puff pastry",
+                    "prosciutto",
+                    "Dijon mustard"
+                ],
+                "method": "1. Sear the beef tenderloin and set aside. \n2. Sauté mushrooms with garlic and thyme. \n3. Spread Dijon mustard on puff pastry, layer prosciutto and mushrooms. \n4. Place the seared beef on top and wrap it tightly. \n5. Bake at 425°F (220°C) for 25-30 minutes. \n6. Let it rest before slicing and serving.",
+                "rating": 4.9
+            },
+            {
+                "name": "Mushroom Risotto",
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "onion",
+                    "vegetable broth",
+                    "Parmesan cheese"
+                ],
+                "method": "1. Sauté onions and mushrooms in a pan until golden. \n2. Add arborio rice and stir for a minute. \n3. Gradually add vegetable broth, stirring constantly until the rice is cooked and creamy. \n4. Stir in Parmesan cheese and serve hot.",
+                "rating": 4.2
+            },
+            {
+                "name": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "rosemary",
+                    "thyme",
+                    "garlic"
+                ],
+                "method": "1. Rub chicken with a mixture of lemon juice, rosemary, thyme, and garlic. \n2. Place the chicken in a baking dish and roast in the oven at 375°F (190°C) for about 1 hour or until cooked through. \n3. Let it rest for a few minutes before serving.",
+                "rating": 4.8
+            },
+            {
+                "name": "Chocolate Lava Cake",
+                "ingredients": [
+                    "chocolate",
+                    "butter",
+                    "eggs",
+                    "sugar",
+                    "flour"
+                ],
+                "method": "1. Melt chocolate and butter in a bowl over simmering water. \n2. In a separate bowl, beat eggs and sugar until light and fluffy. \n3. Fold in melted chocolate mixture and flour. \n4. Pour the batter into greased ramekins and bake at 425°F (220°C) for 10-12 minutes. \n5. Serve warm with a dusting of powdered sugar.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "picture": "chef4.jpg",
+        "name": "Sophia Rodriguez",
+        "experience": 12,
+        "recipes": 180,
+        "likes": 6500,
+        "bio": "Innovative chef passionate about creating unique and visually stunning dishes. I enjoy experimenting with flavors and textures to surprise and delight my diners.",
+        "recipesList": [
+            {
+                "name": "Salmon Tartare",
+                "ingredients": [
+                    "fresh salmon",
+                    "red onion",
+                    "capers",
+                    "lemon juice",
+                    "Dijon mustard"
+                ],
+                "method": "1. Finely chop the fresh salmon, red onion, and capers. \n2. Mix the chopped ingredients with lemon juice and Dijon mustard. \n3. Season with salt and pepper to taste. \n4. Serve chilled with crackers or toasted bread slices.",
+                "rating": 4.7
+            },
+            {
+                "name": "Mushroom Risotto",
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "onion",
+                    "vegetable broth",
+                    "Parmesan cheese"
+                ],
+                "method": "1. Sauté onions and mushrooms in a pan until golden. \n2. Add arborio rice and stir for a minute. \n3. Gradually add vegetable broth, stirring constantly until the rice is cooked and creamy. \n4. Stir in Parmesan cheese and serve hot.",
+                "rating": 4.2
+            },
+            {
+                "name": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "rosemary",
+                    "thyme",
+                    "garlic"
+                ],
+                "method": "1. Rub chicken with a mixture of lemon juice, rosemary, thyme, and garlic. \n2. Place the chicken in a baking dish and roast in the oven at 375°F (190°C) for about 1 hour or until cooked through. \n3. Let it rest for a few minutes before serving.",
+                "rating": 4.8
+            },
+            {
+                "name": "Chocolate Lava Cake",
+                "ingredients": [
+                    "chocolate",
+                    "butter",
+                    "eggs",
+                    "sugar",
+                    "flour"
+                ],
+                "method": "1. Melt chocolate and butter in a bowl over simmering water. \n2. In a separate bowl, beat eggs and sugar until light and fluffy. \n3. Fold in melted chocolate mixture and flour. \n4. Pour the batter into greased ramekins and bake at 425°F (220°C) for 10-12 minutes. \n5. Serve warm with a dusting of powdered sugar.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "picture": "chef5.jpg",
+        "name": "David Wilson",
+        "experience": 8,
+        "recipes": 120,
+        "likes": 4200,
+        "bio": "Creative chef with a passion for fusion cuisine. I love combining flavors and techniques from different culinary traditions to create exciting and memorable dishes.",
+        "recipesList": [
+            {
+                "name": "Teriyaki Glazed Salmon",
+                "ingredients": [
+                    "salmon fillet",
+                    "soy sauce",
+                    "brown sugar",
+                    "mirin",
+                    "ginger"
+                ],
+                "method": "1. Mix soy sauce, brown sugar, mirin, and grated ginger in a bowl. \n2. Marinate the salmon fillet in the mixture for 30 minutes. \n3. Grill the salmon on medium-high heat, basting with the marinade, until cooked through. \n4. Serve hot with steamed rice and vegetables.",
+                "rating": 4.4
+            },
+            {
+                "name": "Mushroom Risotto",
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "onion",
+                    "vegetable broth",
+                    "Parmesan cheese"
+                ],
+                "method": "1. Sauté onions and mushrooms in a pan until golden. \n2. Add arborio rice and stir for a minute. \n3. Gradually add vegetable broth, stirring constantly until the rice is cooked and creamy. \n4. Stir in Parmesan cheese and serve hot.",
+                "rating": 4.2
+            },
+            {
+                "name": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "rosemary",
+                    "thyme",
+                    "garlic"
+                ],
+                "method": "1. Rub chicken with a mixture of lemon juice, rosemary, thyme, and garlic. \n2. Place the chicken in a baking dish and roast in the oven at 375°F (190°C) for about 1 hour or until cooked through. \n3. Let it rest for a few minutes before serving.",
+                "rating": 4.8
+            },
+            {
+                "name": "Chocolate Lava Cake",
+                "ingredients": [
+                    "chocolate",
+                    "butter",
+                    "eggs",
+                    "sugar",
+                    "flour"
+                ],
+                "method": "1. Melt chocolate and butter in a bowl over simmering water. \n2. In a separate bowl, beat eggs and sugar until light and fluffy. \n3. Fold in melted chocolate mixture and flour. \n4. Pour the batter into greased ramekins and bake at 425°F (220°C) for 10-12 minutes. \n5. Serve warm with a dusting of powdered sugar.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "picture": "chef6.jpg",
+        "name": "Olivia Thompson",
+        "experience": 5,
+        "recipes": 80,
+        "likes": 2500,
+        "bio": "Up-and-coming chef with a passion for farm-to-table cooking. I believe in showcasing the natural flavors of ingredients and supporting local farmers and producers.",
+        "recipesList": [
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "tomatoes",
+                    "fresh mozzarella",
+                    "basil leaves",
+                    "balsamic glaze",
+                    "extra virgin olive oil"
+                ],
+                "method": "1. Slice tomatoes and fresh mozzarella. \n2. Arrange the tomato and mozzarella slices on a platter. \n3. Top with fresh basil leaves. \n4. Drizzle with balsamic glaze and extra virgin olive oil. \n5. Season with salt and pepper to taste.",
+                "rating": 4.3
+            },
+            {
+                "name": "Mushroom Risotto",
+                "ingredients": [
+                    "arborio rice",
+                    "mushrooms",
+                    "onion",
+                    "vegetable broth",
+                    "Parmesan cheese"
+                ],
+                "method": "1. Sauté onions and mushrooms in a pan until golden. \n2. Add arborio rice and stir for a minute. \n3. Gradually add vegetable broth, stirring constantly until the rice is cooked and creamy. \n4. Stir in Parmesan cheese and serve hot.",
+                "rating": 4.2
+            },
+            {
+                "name": "Lemon Herb Roasted Chicken",
+                "ingredients": [
+                    "chicken",
+                    "lemon",
+                    "rosemary",
+                    "thyme",
+                    "garlic"
+                ],
+                "method": "1. Rub chicken with a mixture of lemon juice, rosemary, thyme, and garlic. \n2. Place the chicken in a baking dish and roast in the oven at 375°F (190°C) for about 1 hour or until cooked through. \n3. Let it rest for a few minutes before serving.",
+                "rating": 4.8
+            },
+            {
+                "name": "Chocolate Lava Cake",
+                "ingredients": [
+                    "chocolate",
+                    "butter",
+                    "eggs",
+                    "sugar",
+                    "flour"
+                ],
+                "method": "1. Melt chocolate and butter in a bowl over simmering water. \n2. In a separate bowl, beat eggs and sugar until light and fluffy. \n3. Fold in melted chocolate mixture and flour. \n4. Pour the batter into greased ramekins and bake at 425°F (220°C) for 10-12 minutes. \n5. Serve warm with a dusting of powdered sugar.",
+                "rating": 4.7
+            }
+        ]
+    }
+]
